@@ -1,7 +1,23 @@
 body{
-    background: blue;
+    background:url(./images/website_background.jpg) no-repeat center top;
+    background-size: 1200px;
+    
 }
-
 h1{
     font-size: large;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+#introduction{
+    color: red;
+    text-align: center;
+    background-color: darkseagreen;
+    width: 400px;
+    margin-left: 40%;
+}
+
+div{
+    font-size: 175%;
 }
